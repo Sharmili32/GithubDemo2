@@ -1,4 +1,4 @@
-name: ServiceNow GitHub Actions Demo
+name: GithubDemo2
 
 on:
   pull_request:
@@ -54,7 +54,7 @@ jobs:
     # to clean up the persistent Test environment. 
     needs: build
     name: Run ATF in Test
-name: ServiceNow GitHub Actions Demo
+name: GithubDemo2
 
 on:
   pull_request:
