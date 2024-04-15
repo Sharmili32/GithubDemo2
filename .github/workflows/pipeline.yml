@@ -1,4 +1,4 @@
-name: Servicenow Github Actions Demo
+name: GithubDemo2
 
 on:
   pull_request:
